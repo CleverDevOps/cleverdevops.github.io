@@ -5,4 +5,4 @@
 layout: home
 ---
 
-# Welcome to CleverDevOps
+# Welcome to Clever DevOps
